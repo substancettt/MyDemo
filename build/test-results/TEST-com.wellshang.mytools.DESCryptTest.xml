@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wellshang.mytools.DESCryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-03-14T13:54:40" hostname="Shang-PC" time="0.162">
+  <properties/>
+  <testcase name="cryptTest" classname="com.wellshang.mytools.DESCryptTest" time="0.162"/>
+  <system-out><![CDATA[setUp
+Original text: ABCDEFGxyz1234567890~<>?&
+Encrypt text: XLeyCcLtXSBeqqhRGydu9Gkc2dzMAqCFvpXIk9yiI/8=
+Decrypt text: ABCDEFGxyz1234567890~<>?&
+tearDown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

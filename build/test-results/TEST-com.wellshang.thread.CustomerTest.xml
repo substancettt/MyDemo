@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wellshang.thread.CustomerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-03-14T13:54:40" hostname="Shang-PC" time="0.208">
+  <properties/>
+  <testcase name="testRun" classname="com.wellshang.thread.CustomerTest" time="0.208"/>
+  <system-out><![CDATA[Codes: 999
+Customer info: null
+sum = 100
+sum = 200
+sum = 300
+Done!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
